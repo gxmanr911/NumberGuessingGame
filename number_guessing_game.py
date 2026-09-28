@@ -80,7 +80,7 @@ class game():
 
 	
 class file():
-	file_name="irish_save_file.txt"
+	file_name="save_file.txt"
 	def init():
 		try:
 			open(file.file_name,'x')
